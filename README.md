@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+This is a simple stopwatch.  You can detect seconds and minutes.  Also pause and indicate the interval for counting the stopwatch.
 
 ## Available Scripts
 
